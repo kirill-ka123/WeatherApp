@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/weather_nav_graph"
+    app:startDestination="@id/currentWeatherFragment">
+
+    <fragment
+        android:id="@+id/currentWeatherFragment"
+        android:name="com.example.weatherapp.fragments.CurrentWeatherFragment"
+        android:label="CurrentWeatherFragment" >
+        <action
+            android:id="@+id/action_currentWeatherFragment_to_savedLocationsFragment"
+            app:destination="@id/savedLocationsFragment" />
+        <argument
+            android:name="location"
+            app:argType="com.example.weatherapp.models.geocoding.LocationResponseItem" />
+    </fragment>
+    <fragment
+        android:id="@+id/hourlyWeatherFragment"
+        android:name="com.example.weatherapp.fragments.HourlyWeatherFragment"
+        android:label="HourlyWeatherFragment" />
+    <fragment
+        android:id="@+id/searchWeatherFragment"
+        android:name="com.example.weatherapp.fragments.SearchLocationsFragment"
+        android:label="SearchWeatherFragment" >
+        <action
+            android:id="@+id/action_searchWeatherFragment_to_savedLocationsFragment"
+            app:destination="@id/savedLocationsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/savedLocationsFragment"
+        android:name="com.example.weatherapp.fragments.SavedLocationsFragment"
+        android:label="SavedLocationsFragment" >
+        <action
+            android:id="@+id/action_savedLocationsFragment_to_searchWeatherFragment"
+            app:destination="@id/searchWeatherFragment" />
+        <action
+            android:id="@+id/action_savedLocationsFragment_to_currentWeatherFragment"
+            app:destination="@id/currentWeatherFragment" />
+    </fragment>
+</navigation>

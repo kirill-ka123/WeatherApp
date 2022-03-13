@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/currentWeatherFragment"
+        android:title="Погода сейчас"
+        android:icon="@drawable/ic_current_weather" />
+
+    <item android:id="@+id/hourlyWeatherFragment"
+        android:title="Почасовая погода"
+        android:icon="@drawable/ic_hourly_weather" />
+
+</menu>

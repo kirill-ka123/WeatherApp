@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="max_temp">Максимальная температура: %1$s</string>
+    <string name="min_temp">Минимальная температура: %1$s</string>
+    <string name="atmospheric_pressure">Атмосферное давление: %1$s ГПа</string>
+    <string name="humidity">Влажность: %1$s</string>
+    <string name="wind">Ветер: %1$s м/с</string>
+    <string name="cloud_cover">Облачность: %1$s</string>
+</resources>

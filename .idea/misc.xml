@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/custom_input.xml" value="0.1" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/custom_search_item.xml" value="0.1" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/ic_add.xml" value="0.126" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/ic_back.xml" value="0.126" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/ic_cancel.xml" value="0.126" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/ic_check.xml" value="0.126" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/ic_cloud.xml" value="0.126" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/ic_current_weather.xml" value="0.126" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/ic_hourly_weather.xml" value="0.126" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.126" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/ic_search.xml" value="0.126" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/ic_search_focused.xml" value="0.1" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/drawable/ic_search_without_focusing.xml" value="0.1" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/layout/current_weather_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/layout/hourly_weather_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/layout/item_location_preview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/layout/item_saved_location_preview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/layout/item_search_location_preview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/layout/saved_locations.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/layout/saved_locations_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/layout/search_locations_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/layout/search_weather_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/Kirill2/Desktop/kirill/self-development/Weather App/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
